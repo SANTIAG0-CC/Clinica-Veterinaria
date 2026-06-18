@@ -1,11 +1,10 @@
-# trabajo1
+# Clinica veterinaria
 
-Descripciín basisca de su Proyecto de POO ...
+Proyecto de clinica vetrerinaria
 
 # Autores
 
-- Autor 1
-- Autor 2
+- Jayr Santiago Ceballos Chamorro
 
 # Herramientas
 
